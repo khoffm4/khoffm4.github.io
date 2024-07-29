@@ -12,7 +12,7 @@ title                    : "Kentaro Hoffman"
 title_separator          : "-"
 name                     : &name "Kentaro Hoffman"
 description              : &description "personal description"
-url                      : https://khoffm4.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://khoffm4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "khoffm4.github.io"
 
