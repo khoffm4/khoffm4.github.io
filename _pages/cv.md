@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://github.com/khoffm4/KenHoff/files/CV-5.pdf)
+[CV](https://raw.githubusercontent.com/khoffm4/khoffm4.github.io/master/files/CV-5.pdf)
+
+
+.
+
+
