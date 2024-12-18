@@ -1,0 +1,46 @@
+/* Define your color palette */
+:root {
+    --html-color: #007bff; /* Blue */
+    --arxiv-color: #ff4500; /* Orange */
+    --pdf-color: #28a745; /* Green */
+    --code-color: #17a2b8; /* Teal */
+    --poster-color: #ffc107; /* Yellow */
+    --slides-color: #dc3545; /* Red */
+}
+
+/* Apply the colors to the buttons */
+.btn-html {
+    background-color: var(--html-color);
+    border-color: var(--html-color);
+    color: white;
+}
+
+.btn-arxiv {
+    background-color: var(--arxiv-color);
+    border-color: var(--arxiv-color);
+    color: white;
+}
+
+.btn-pdf {
+    background-color: var(--pdf-color);
+    border-color: var(--pdf-color);
+    color: white;
+}
+
+.btn-code {
+    background-color: var(--code-color);
+    border-color: var(--code-color);
+    color: white;
+}
+
+.btn-poster {
+    background-color: var(--poster-color);
+    border-color: var(--poster-color);
+    color: white;
+}
+
+.btn-slides {
+    background-color: var(--slides-color);
+    border-color: var(--slides-color);
+    color: white;
+}

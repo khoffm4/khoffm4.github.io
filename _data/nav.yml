@@ -1,0 +1,8 @@
+- name: Home
+  link: /index.html
+- name: CV
+  link: /cv.html
+- name: Publications
+  link: /publications.html
+- name: About
+  link: /about.html
