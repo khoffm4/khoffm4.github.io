@@ -11,20 +11,45 @@
                         <div class="col-sm-2">
                             <figure>
                                 <picture>
-                                <img src="/assets/img/publication_preview/lfo.png" class="img-fluid rounded" alt="lfo.png">
+                                <img src="/assets/img/publication_preview/rashomon.png" class="img-fluid rounded" alt="lfo.png">
                                 </picture>
                             </figure>
                         </div>
                         <div class="col-sm-10">
-                            <div class="title">Legal Financial Obligations in Washington’s Courts</div>
+                            <div class="title">Using Rashomon Sets for Robust Active Learning</div>
                             <div class="author">
-                                Karl Jones, Lindsey R. Beach, Amanda B. Gilman, Wei Wang, Carl McCurley, Brandon Morande, <u><strong>Adam Visokay</strong></u>
+                                Simon Dovan Nguyen,<u><strong>Kentaro Hoffman</strong></u>, Tyler McCormick
                             </div>
                             <div class="periodical">
-                                <em>Washington State Center for Court Research (WSSCR), 2024</em>
+                                <em>NeurIPS Workshop on Bayesian Decision Making and Uncertainty, 2024</em>
                             </div>
                             <div class="links">
-                                <a href="https://www.courts.wa.gov/subsite/wsccr/docs/LFO%20WSCCR%20Report%20-%20Published.pdf" class="btn btn-sm btn-outline-primary" target="_blank">pdf</a>
+                                <a href="https://openreview.net/pdf?id=1d2tQi9keK" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
+                                <a href="/assets/Rashomon_BDU_Poster.pdf" class="btn btn-sm btn-outline-primary" target="_blank">poster</a>
+                            </div>
+                        </div>
+                    </div>
+                </ol>
+                <ol class="bibliography">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <figure>
+                                <picture>
+                                <img src="/assets/img/publication_preview/bayes_drift.png" class="img-fluid rounded" alt="lfo.png">
+                                </picture>
+                            </figure>
+                        </div>
+                        <div class="col-sm-10">
+                            <div class="title">Bayesian Optimal Experimental Design of Streaming Data Incorporating Machine Learning-Generated Synthetic Data</div>
+                            <div class="author">
+                                <u><strong>Kentaro Hoffman</strong></u> and Tyler H. McCormick
+                            </div>
+                            <div class="periodical">
+                                <em>NeurIPS Workshop on Bayesian Decision Making and Uncertainty, 2024</em>
+                            </div>
+                            <div class="links">
+                                <a href="https://openreview.net/pdf?id=RKxzpg9Kta" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
+                                <a href="/assets/Bayes_Exp_Poster.pdf" class="btn btn-sm btn-outline-primary" target="_blank">poster</a>
                             </div>
                         </div>
                     </div>
@@ -64,76 +89,26 @@
                         <div class="col-sm-2">
                             <figure>
                                 <picture>
-                                    <img src="/assets/img/publication_preview/gptfed.png" class="img-fluid rounded" alt="gptfed.png">
+                                    <img src="/assets/img/publication_preview/iic.png" class="img-fluid rounded" alt="iic.png">
                                 </picture>
                             </figure>
                         </div>
                         <div class="col-sm-10">
-                            <div class="title">GPT Deciphering Fedspeak: Quantifying Dissent Among Hawks and Doves</div>
+                            <div class="title">Effects of epileptiform activity on discharge outcome in critically ill patients in the USA: a retrospective cross-sectional study</div>
                             <div class="author">
-                                Denis Peskoff, <u><strong>Adam Visokay</strong></u>, Sander Schulhoff, Benjamin Wachspress, Alan Blinder, and Brandon Stewart
+                                Harsh Parikh, <u><strong>Kentaro Hoffman</strong></u>, Haoqi Sun, Sahar F Zafar, Wendong Ge, Jin Jing, Lin Liu, Jimeng Sun, Aaron Struck, Alexander Volfovsky, Cynthia Rudin, M Brandon Westover
                             </div>
                             <div class="periodical">
-                                <em>Findings of the Association for Computational Linguistics (EMNLP), 2023
+                                <em>The Lancet Digital Health, 2023
                                 </em>
                             </div>
                             <div class="links">
-                                <a href="https://aclanthology.org/2023.findings-emnlp.434/" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
-                                <a href="https://arxiv.org/abs/2407.19110" class="btn btn-sm btn-outline-primary" target="_blank">arxiv</a>
-                                <a href="/assets/gptfed.pdf" class="btn btn-sm btn-outline-primary">pdf</a>
-                                <a href="https://github.com/DenisPeskoff/FedNLP" class="btn btn-sm btn-outline-primary" target="_blank">code</a>
+                                <a href="https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00088-2/fulltext" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
                             </div>
                         </div>
                     </div>
                 </ol>
                 <h2 class="bibliography"></h2>
-                <ol class="bibliography">
-                    <div class="row">
-                        <div class="col-sm-2">
-                            <figure>
-                                <picture>
-                                    <img src="/assets/img/publication_preview/rrds.png" class="img-fluid rounded" alt="rrds.png">
-                                </picture>
-                            </figure>
-                        </div>
-                        <div class="col-sm-10">
-                            <div class="title">Respondent-Driven Sampling: An Overview in the Context of Human Trafficking</div>
-                            <div class="author">
-                                Jessica P. Kunke, <u><strong>Adam Visokay</strong></u>, and Tyler H. McCormick
-                            </div>
-                            <div class="periodical">
-                                <em>CHANCE, Volume 36, Issue 4, (American Statistical Association), 2023
-                                </em>
-                            </div>
-                            <div class="links">
-                                <a href="https://www.tandfonline.com/doi/full/10.1080/09332480.2023.2290949" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
-                                <a href="https://arxiv.org/abs/2309.16160" class="btn btn-sm btn-outline-primary" target="_blank">arxiv</a>
-                                <a href="/assets/rrds.pdf" class="btn btn-sm btn-outline-primary">pdf</a>
-                            </div>
-                        </div>
-                    </div>
-                </ol>
-                <h2 class="bibliography"></h2>
-                <ol class="bibliography">
-                    <div class="row">
-                        <div class="col-sm-2">
-                            <figure>
-                                <picture>
-                                    <img src="/assets/img/publication_preview/super_spikes_did.png" class="img-fluid rounded" alt="super_spikes_did.png">
-                                </picture>
-                            </figure>
-                        </div>
-                        <div class="col-sm-10">
-                            <div class="title">Super Spikes: The Latest Controversy in Running Shoe Technology</div>
-                            <div class="author">
-                                <u><strong>Adam Visokay</strong></u>
-                            </div>
-                            <div class="links">
-                                <a href="/assets/super_spikes.pdf" class="btn btn-sm btn-outline-primary">pdf</a>
-                            </div>
-                        </div>
-                    </div>
-                </ol>
                 <!-- <h2 class="bibliography"></h2>
                 <ol class="bibliography">
                     <div class="row">
