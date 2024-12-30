@@ -4,6 +4,8 @@
         <article>
             <br>
             <div class="publications">
+            <h2 class="bibliography">2024</h2>
+                <br>
                 <ol class="bibliography">
                     <div class="row">
                         <div class="col-sm-2">
@@ -28,8 +30,6 @@
                         </div>
                     </div>
                 </ol>
-                <h2 class="bibliography">2024</h2>
-                <br>
                 <ol class="bibliography">
                     <div class="row">
                         <div class="col-sm-2">
