@@ -11,6 +11,29 @@
                         <div class="col-sm-2">
                             <figure>
                                 <picture>
+                                <img src="/assets/img/publication_preview/ipd_package.png" class="img-fluid rounded" alt="lfo.png">
+                                </picture>
+                            </figure>
+                        </div>
+                        <div class="col-sm-10">
+                            <div class="title">IPD: An R Package for Conducting Inference on Predicted Data</div>
+                            <div class="author">
+                                Stephen Salerno, Jiacheng Miao, Awan Afiaz, <u><strong>Kentaro Hoffman</strong></u>, Anna Neufeld, Qiongshi Lu, Tyler H. McCormick, Jeffrey T. Leek
+                            </div>
+                            <div class="periodical">
+                                <em>Under Review, 2024</em>
+                            </div>
+                            <div class="links">
+                                <a href="https://arxiv.org/abs/2410.09665" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
+                            </div>
+                        </div>
+                    </div>
+                </ol>
+                <ol class="bibliography">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <figure>
+                                <picture>
                                 <img src="/assets/img/publication_preview/rashomon.png" class="img-fluid rounded" alt="lfo.png">
                                 </picture>
                             </figure>
