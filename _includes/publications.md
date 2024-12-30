@@ -4,6 +4,30 @@
         <article>
             <br>
             <div class="publications">
+                <ol class="bibliography">
+                    <div class="row">
+                        <div class="col-sm-2">
+                            <figure>
+                                <picture>
+                                <img src="/assets/img/publication_preview/refit.png" class="img-fluid rounded" alt="lfo.png">
+                                </picture>
+                            </figure>
+                        </div>
+                        <div class="col-sm-10">
+                            <div class="title">Some models are useful, but for how long?: A decision theoretic approach to choosing when to refit large-scale prediction models</div>
+                            <div class="author">
+                                <u><strong> Kentaro Hoffman </strong></u>, Stephen Salerno, Jeff Leek, Tyler McCormick
+                            </div>
+                            <div class="periodical">
+                                <em>Under Review, 2024</em>
+                            </div>
+                            <div class="links">
+                                <a href="https://arxiv.org/abs/2405.13926" class="btn btn-sm btn-outline-primary" target="_blank">html</a>
+                                <a href="/assets/When_to_Refit_Poster.pdf" class="btn btn-sm btn-outline-primary" target="_blank">poster</a>
+                            </div>
+                        </div>
+                    </div>
+                </ol>
                 <h2 class="bibliography">2024</h2>
                 <br>
                 <ol class="bibliography">
